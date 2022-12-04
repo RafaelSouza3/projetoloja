@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #1a1a1a;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: Rubik;
+}
+
+.d-flex {
+  display: flex;
+}
+
+li {
+  list-style: none;
+}
